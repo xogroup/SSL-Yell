@@ -1,6 +1,6 @@
-# SSL-Yell
+# SSL Yell
 
-SSL-Yell will read a list of domains from a Google Sheet and send Pagerduty notifications for those which are expiring soon.
+SSL Yell will read a list of domains from a Google Sheet and send Pagerduty notifications for those which are expiring soon.
 
 ## Getting Started
 
@@ -18,7 +18,7 @@ To run SSL Yell, you need:
  
 ## Running the Program
 
-To run SSL-Yell:
+To run SSL Yell:
 
 As ruby script:
 
@@ -67,7 +67,7 @@ To suppress notifications for a domain, set the alert interval to 0.
  
 ## Links
  
- A sample Google Sheet for SSL Yell: https://docs.google.com/a/xogrp.com/spreadsheets/d/1PHK_vq9CGx4xuTbgDzEe1fLtWGZDpeWEz-7RJBTSVSE/edit?usp=sharing
+ A sample Google Sheet for SSL Yell: https://docs.google.com/spreadsheets/d/1T2UXDidfu8f1w3DPHle-a-7b2fRU6M3UHdOFAL4xxRc/edit?usp=sharing
  
  Creating and sharing Google Sheets: https://gsuite.google.com/learning-center/products/sheets/get-started/
  
@@ -79,7 +79,7 @@ To suppress notifications for a domain, set the alert interval to 0.
  Getting your Pagerduty Integration Key: https://support.pagerduty.com/hc/en-us/articles/202829230-Triggering-an-Incident-with-Web-UI-Email-or-API
  under "Send an Event through the API"
  
- SSL Yell architecture diagram: https://drive.google.com/a/xogrp.com/file/d/0B4tsBHDgrZ18cjJRMlFKRmpuajQ/view?usp=sharing
+ SSL Yell architecture diagram: https://drive.google.com/file/d/0BxNcxFvdDktWampiRm5wcHR2Y0E/view?usp=sharing
  
  ## Testing
  
